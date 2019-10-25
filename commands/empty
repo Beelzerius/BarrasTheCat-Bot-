@@ -1,0 +1,16 @@
+const Discord = require("discord.js");
+
+module.exports.run = async(bot, message, args, database, perms) => {
+  return;
+}
+
+module.exports.help = {
+  name: "empty",
+  syntax: "empty",
+  description: "empty",
+}
+
+module.exports.config = {
+  name: "empty",
+  permissions: []
+}

@@ -1,0 +1,171 @@
+{
+  "600527925241970700": [
+    {
+      "id": "410247333792710656",
+      "coins": 0,
+      "warns": 1,
+      "xp": 0,
+      "level": 1,
+      "inv": []
+    },
+    {
+      "id": "315431294215520256",
+      "coins": 131,
+      "warns": 1,
+      "xp": 0,
+      "level": 1,
+      "inv": [
+        {
+          "id": "1",
+          "qtd": "1"
+        }
+      ]
+    },
+    {
+      "id": "435062677975597056",
+      "coins": 0,
+      "warns": 4,
+      "xp": 0,
+      "level": 1,
+      "inv": []
+    },
+    {
+      "id": "configs",
+      "welcome": "611002407807090708",
+      "mute": "611003534103674996",
+      "report": "611004996053630997",
+      "start": "609212451325476864",
+      "key": "609215924247068680",
+      "8b": [
+        "Sim",
+        "Não",
+        "Talvez",
+        "Pergunte Novamente",
+        "Miau"
+      ]
+    },
+    {
+      "id": "itens",
+      "itens": [
+        {
+          "id": 0,
+          "name": "Pixel",
+          "desc": "A pixel.",
+          "image": "https://f4.bcbits.com/img/0007979614_10.jpg",
+          "price": "1000000"
+        }
+      ],
+      "aid": 1
+    },
+    {
+      "id": "376085702246662144",
+      "coins": 2,
+      "warns": 0,
+      "xp": 0,
+      "level": 1,
+      "inv": []
+    },
+    {
+      "id": "383686937501892608",
+      "coins": 0,
+      "warns": 0,
+      "xp": 0,
+      "level": 1,
+      "inv": []
+    }
+  ],
+  "598335344148217876": [
+    {
+      "id": "315431294215520256",
+      "coins": 0,
+      "warns": 0,
+      "xp": 0,
+      "level": 1,
+      "inv": []
+    }
+  ],
+  "591718211372974100": [
+    {
+      "id": "315431294215520256",
+      "coins": 0,
+      "warns": 0,
+      "xp": 0,
+      "level": 1,
+      "inv": []
+    },
+    {
+      "id": "339001895324483584",
+      "coins": 6,
+      "warns": 0,
+      "xp": 0,
+      "level": 1,
+      "inv": []
+    }
+  ],
+  "612292135294861322": [
+    {
+      "id": "315431294215520256",
+      "coins": 7,
+      "warns": 0,
+      "xp": 0,
+      "level": 1,
+      "inv": []
+    },
+    {
+      "id": "383686937501892608",
+      "coins": 13,
+      "warns": 0,
+      "xp": 0,
+      "level": 1,
+      "inv": [
+        {
+          "id": "0",
+          "qtd": "1"
+        }
+      ]
+    },
+    {
+      "id": "configs",
+      "welcome": "612299776238813234",
+      "mute": "",
+      "report": "612299636576878623",
+      "start": "612310357679013889",
+      "key": "609215924247068680",
+      "8b": [
+        "Sim",
+        "Não",
+        "Talvez",
+        "Pergunte Novamente",
+        "Miau"
+      ]
+    },
+    {
+      "id": "itens",
+      "itens": [
+        {
+          "id": 0,
+          "name": "DragãoBrancoDeOlhosAzuis",
+          "desc": "Este lendário dragão é uma poderosa máquina de destruição. Praticamente invencível, muito poucos enfrentaram essa magnifica criatura e viveram para contar a história.",
+          "image": "https://pm1.narvii.com/6477/02cb25e815495cffd209e38677909c3017882248_hq.jpg",
+          "price": "1000"
+        },
+        {
+          "id": 1,
+          "name": "Sapo",
+          "desc": "É um sapo",
+          "image": "https://images-ext-2.discordapp.net/external/wgq4oXv046N5SghikSADZbgbNGdVVZ0IF-3gdNXwWx8/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/315431294215520256/0c5e27fe7ac53e4a7aa926daa6429ee1.png",
+          "price": "0"
+        }
+      ],
+      "aid": 2
+    },
+    {
+      "id": "251132707570974723",
+      "coins": 0,
+      "warns": 0,
+      "xp": 0,
+      "level": 1,
+      "inv": []
+    }
+  ]
+}
